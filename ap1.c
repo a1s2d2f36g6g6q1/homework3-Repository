@@ -12,6 +12,10 @@ void main(){
 
     *plist[0] = 200;
 
+    printf("-----------------------------------------\n");
+    printf("----- [Suh Dong-Woo] [2021041094] ----- \n");
+    printf("-----------------------------------------\n");
+
     printf("list[0] = %d\n", list[0]);
     printf("&list[0] = %p\n", &list[0]);
     printf("list = %p\n", list);

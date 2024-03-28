@@ -15,6 +15,10 @@ typedef struct {
 int main() {
     struct student1 st1 = {'A', 100, 'A'};
 
+    printf("-----------------------------------------\n");
+    printf("----- [Suh Dong-Woo] [2021041094] ----- \n");
+    printf("-----------------------------------------\n");
+
     printf("st1.lastName = %c\n", st1.lastName);
     printf("st1.studentId = %d\n", st1.studentId);
     printf("st1.grade = %c\n", st1.grade);

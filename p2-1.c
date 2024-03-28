@@ -13,6 +13,10 @@ void main(void){
     for (i = 0; i < MAX_SIZE; i++)
         input[i] = i;
     
+    printf("-----------------------------------------\n");
+    printf("----- [Suh Dong-Woo] [2021041094] ----- \n");
+    printf("-----------------------------------------\n");
+
     /* for checking call by reference */
     printf("--------------------------------------\n");
     printf(" sum1(input, MAX_SIZE) \n");

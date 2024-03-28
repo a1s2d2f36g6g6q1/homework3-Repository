@@ -5,6 +5,10 @@ void print_one(int *ptr, int rows);
 int main() {
     int one[] = {0, 1, 2, 3, 4};
 
+    printf("-----------------------------------------\n");
+    printf("----- [Suh Dong-Woo] [2021041094] ----- \n");
+    printf("-----------------------------------------\n");
+
     printf("one = %p\n", one);
     printf("&one = %p\n", &one);
     printf("&one[0] = %p\n", &one[0]);

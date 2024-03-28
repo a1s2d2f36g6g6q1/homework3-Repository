@@ -10,6 +10,10 @@ void main() {
 
     plist[0] = (int*)malloc(sizeof(int));
 
+    printf("-----------------------------------------\n");
+    printf("----- [Suh Dong-Woo] [2021041094] ----- \n");
+    printf("-----------------------------------------\n");
+
     printf("list[0] \t= %d\n", list[0]);
     printf("list \t\t= %p\n", list);
     printf("&list[0] \t= %p\n", &list[0]);
